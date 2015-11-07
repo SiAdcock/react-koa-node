@@ -21,5 +21,16 @@
   "bugs": {
     "url": "https://github.com/SiAdcock/react-koa-node/issues"
   },
-  "homepage": "https://github.com/SiAdcock/react-koa-node#readme"
+  "homepage": "https://github.com/SiAdcock/react-koa-node#readme",
+  "dependencies": {
+    "babel-core": "^6.1.2",
+    "babel-preset-react": "^6.1.2",
+    "koa": "^1.1.2",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.0"
+  }
 }
